@@ -1,2 +1,2 @@
 # repo002
-This is coming together ncely!  This is my my own lerning purposes
+This is coming together nicely!  This is for my own learning purposes.
